@@ -44,7 +44,7 @@
 
 - [**Convert Celsius To Fahrenheit**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P04-celsiusToF.cpp)
 
-- [**Quadratic Equation Roots**]((https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P05-rootsOfQuadratic.cpp)
+- [**Quadratic Equation Roots**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P05-rootsOfQuadratic.cpp)
 
 - [**Digits In Factorial**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P06-digitsInFactorial.cpp)
 
