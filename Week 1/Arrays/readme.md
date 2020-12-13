@@ -52,7 +52,7 @@
 
 - P08-[**Primality Test**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P08-primalityTest.cpp)
 
-- P09-[**Modular Multiplicative Inverse**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P10-modInverse.cpp)
+- P10-[**Modular Multiplicative Inverse**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P10-modInverse.cpp)
 
 
 
