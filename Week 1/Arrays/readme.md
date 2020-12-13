@@ -36,23 +36,23 @@
 
 ## Mathematics
 
-- [**Smallest divisible number**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P01-smallestDivisibleNum.cpp)
+- P01-[**Smallest divisible number**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P01-smallestDivisibleNum.cpp)
 
-- [**Addition Under Modulo**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P02-additionUnderModulo.cpp)
+- P02-[**Addition Under Modulo**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P02-additionUnderModulo.cpp)
 
-- [**Absolute Value**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P03-absValue.cpp)
+- P03-[**Absolute Value**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P03-absValue.cpp)
 
-- [**Convert Celsius To Fahrenheit**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P04-celsiusToF.cpp)
+- P04-[**Convert Celsius To Fahrenheit**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P04-celsiusToF.cpp)
 
-- [**Quadratic Equation Roots**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P05-rootsOfQuadratic.cpp)
+- P05-[**Quadratic Equation Roots**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P05-rootsOfQuadratic.cpp)
 
-- [**Digits In Factorial**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P06-digitsInFactorial.cpp)
+- P06-[**Digits In Factorial**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P06-digitsInFactorial.cpp)
 
-- [**GP Term**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P07-termOfGP.cpp)
+- P07-[**GP Term**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P07-termOfGP.cpp)
 
-- [**Primality Test**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P08-primalityTest.cpp)
+- P08-[**Primality Test**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P08-primalityTest.cpp)
 
-- [**Modular Multiplicative Inverse**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P10-modInverse.cpp)
+- P09-[**Modular Multiplicative Inverse**](https://github.com/patelsneh18/GeeksForGeeks-DSA-Workshop/blob/main/Week%201/Mathematics/P10-modInverse.cpp)
 
 
 
